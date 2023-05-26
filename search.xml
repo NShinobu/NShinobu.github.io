@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>网站日志 📄  Update Logs</title>
+    <url>/2023/05/20/%E7%BD%91%E7%AB%99%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<ul>
+
+<div class="timeline orange"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023年</p>
+</div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月21日</p>
+</div></div><div class='timeline-item-content'><li>✅ 发布了 <a href="https://nshinobu.github.io/2023/05/21/故人泪-泠鸢yousa/" title="https://nshinobu.github.io/2023/05/21/故人泪-泠鸢yousa/" target="_blank" rel="noopener">故人泪 - 泠鸢yousa </a>一文
+<li>✅ 更新了若干封面图片
+</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月20日</p>
+</div></div><div class='timeline-item-content'><li>✅ 修复Github Pages无法访问layout.css等若干配置文件的问题</li>
+<li>✅ 创建Github项目<a href="https://github.com/NShinobu/PictureCDN/" title="https://github.com/NShinobu/PictureCDN/" target="_blank" rel="noopener">PictureCDN</a>作为图片内容分发网络服务端
+<li>✅ 上传网站头图和背景图片至<a href="https://github.com/NShinobu/PictureCDN/" title="https://github.com/NShinobu/PictureCDN/" target="_blank" rel="noopener">PictureCDN</a>
+<li>✅ 发布了 <a href="https://nshinobu.github.io/2023/05/20/网站日志/" title="https://nshinobu.github.io/2023/05/20/网站日志/" target="_blank" rel="noopener">网站日志 📄 </a>一文
+<li>✅ 修改图片内容分发网络服务端为jsDelivr，以解决国内访问Github不稳定所导致的图片加载失败
+<li>✅ 调试了aplayer音乐播放器与bilibili视频播放器
+<li>✅ 修改了若干细节
+<li>✅ 修复了若干问题
+<li>❗❗❗ 暂时删除了gitcus相关代码和组件以保证文章的可访问性
+</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月19日</p>
+</div></div><div class='timeline-item-content'><li>✅ 首次上传静态网站文件
+<li>✅ 启用Github Pages服务
+</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月14日</p>
+</div></div><div class='timeline-item-content'><li>✅ 创建Github项目<a href="https://github.com/NShinobu/NShinobu.github.io" title="https://github.com/NShinobu/NShinobu.github.io" target="_blank" rel="noopener">nshinobu.github.io</a>
+</div></div></div>
+<div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>你已经走到了世界的尽头</p>
+</div></div></div></div>
+</ul>]]></content>
+      <categories>
+        <category>网站日志</category>
+      </categories>
+      <tags>
+        <tag>网站日志</tag>
+      </tags>
+  </entry>
+</search>
