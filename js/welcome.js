@@ -1,6 +1,24 @@
-//首次访问弹窗
+if ('serviceWorker' in window.navigator && navigator.serviceWorker.controller) {
+    // 发送更新指令到sw
+    // 'update'改为'refresh'即可触发缓存刷新
+    navigator.serviceWorker.controller.postMessage('update')
+    navigator.serviceWorker.addEventListener('message', event => {
+        const data = event.data
+        switch (data.type) {
+            case 'update':
+                // 这里写更新后的操作
+                break
+            case 'refresh':
+                // 这里写强刷缓存后的操作
+                break
+            default:
+                console.error(`未知事件：${data.type}`)
+        }
+    })
+}
+
 if (localStorage.getItem("popWelcomeWindow") != "0") {
-    if(document.referrer==undefined||document.referrer.indexOf("yisous.xyz")!=-1||document.referrer.indexOf("ariasaka.top")!=-1){ //改成自己域名，注意是referrer!!! qwq
+    if(document.referrer==undefined||document.referrer.indexOf("yisous.xyz")!=-1||document.referrer.indexOf("ariasaka.top")!=-1){
         Snackbar.show({
             pos: "top-right",
             showAction: false,
@@ -8,10 +26,10 @@ if (localStorage.getItem("popWelcomeWindow") != "0") {
         })
     }else{
         Snackbar.show({
-                pos: "top-right",
-                showAction: false,
-                text: `欢迎来自${document.referrer.split("://")[1].split("/")[0]}的童鞋访问本站！`
-            })
+            pos: "top-right",
+            showAction: false,
+            text: `欢迎来自${document.referrer.split("://")[1].split("/")[0]}的童鞋访问本站！`
+        })
         localStorage.setItem("popWelcomeWindow", "0");
     }
 }
@@ -27,10 +45,7 @@ if (sessionStorage.getItem("popCookieWindow") != "0") {
         })
     }, 3000)
 }
-//不在弹出Cookie提醒
 sessionStorage.setItem("popCookieWindow", "0");
-
-//自带上文浏览器提示
 
 function browserTC() {
     btf.snackbarShow("");
@@ -90,4 +105,3 @@ if(getCookie('browsertc')!=1){
     }, 1);
     browserVersion();
 }
- 

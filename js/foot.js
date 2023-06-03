@@ -11,7 +11,7 @@ $(document).ready(function(e){
 function show_date_time(){
   $('.framework-info').html('小破站已经安全运行<span id="span_dt_dt" style="color: #fff;"></span>');
   window.setTimeout("show_date_time()", 1000);
-  BirthDay=new Date("21/5/2023 12:0:0");
+  BirthDay=new Date("19/05/2023 12:33:02");
   today=new Date();
   timeold=(today.getTime()-BirthDay.getTime());
   sectimeold=timeold/1000
