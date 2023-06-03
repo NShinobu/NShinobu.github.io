@@ -1,4 +1,7 @@
-// if(window.localStorage.getItem("fpson")=="1"){
+document.addEventListener('pjax:complete', fps);
+document.addEventListener('DOMContentLoaded', fps);
+function fps(){
+// if(window.localStorage.getItem("fpson")=="1"){ 
 //如果要使博客设置上面的设置项能生效，就把上面一行取消注释
 var rAF = function () {
     return (
@@ -56,3 +59,5 @@ loop();
 // else{$("#fps").hide()}
 
 //如果要使博客设置上面的设置项能生效，就把上面两行取消注释
+}
+ 

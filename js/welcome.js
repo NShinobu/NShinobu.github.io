@@ -90,9 +90,4 @@ if(getCookie('browsertc')!=1){
     }, 1);
     browserVersion();
 }
-
-
-作者: Ariasaka
-链接: https://yisous.xyz/posts/becc831a/#%E5%BC%B9%E5%87%BA%E6%AC%A2%E8%BF%8Ecookief12%E6%8F%90%E7%A4%BA%E7%9A%84snackbar
-来源: Ariasakaの小窝
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+ 
