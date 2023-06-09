@@ -193,7 +193,7 @@ $.ajax({
             else timeChange = "夜深了，早点休息，少熬夜";
         
             document.getElementsByClassName("announcement_content")[0].innerH TML =
-                `${timeChange}<br>欢迎来自 <span>${pos}</span> 的小伙伴
+                `欢迎来自 <span>${pos}</span> 的小伙伴，${timeChange}<br>
         你距离布束砥信゜约有<span>${dist}</span>公里，${posdesc}
         <br>
         `;
