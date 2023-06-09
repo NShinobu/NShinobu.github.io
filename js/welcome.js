@@ -18,7 +18,7 @@ if ('serviceWorker' in window.navigator && navigator.serviceWorker.controller) {
 }
 
 if (localStorage.getItem("popWelcomeWindow") != "0") {
-    if(document.referrer==undefined||document.referrer.indexOf("yisous.xyz")!=-1||document.referrer.indexOf("ariasaka.top")!=-1){
+    if(document.referrer==undefined||document.referrer.indexOf("nshinobu.github.io")!=-1){
         Snackbar.show({
             pos: "top-right",
             showAction: false,
@@ -40,7 +40,7 @@ if (sessionStorage.getItem("popCookieWindow") != "0") {
             pos: 'bottom-right',
             actionText: "查看博客声明",
             onActionClick: function (element) {
-                window.open("/license")
+                window.open("/license/")
             },
         })
     }, 3000)

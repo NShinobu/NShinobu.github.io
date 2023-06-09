@@ -8,7 +8,7 @@ style="width: 62em; height: 35em;"
 allowfullscreen="allowfullscreen" width="100%" height="100%" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 <br>
 
-    <div id="aplayer-LLfnYOFs" class="aplayer aplayer-tag-marker meting-tag-marker"
+    <div id="aplayer-tAxciNDw" class="aplayer aplayer-tag-marker meting-tag-marker"
          data-id="1375127394" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#f25888"
     ></div>
 <br>
@@ -45,57 +45,6 @@ allowfullscreen="allowfullscreen" width="100%" height="100%" scrolling="no" fram
       <tags>
         <tag>泠鸢yousa</tag>
         <tag>歌曲分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站日志 📄  Update Logs</title>
-    <url>/posts/65030.html</url>
-    <content><![CDATA[<ul>
-
-    <div id="aplayer-EeHgrigz" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="1375127394" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#f25888"
-    ></div>
-
-<div class="timeline orange"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023年</p>
-</div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>6月3日</p>
-</div></div><div class='timeline-item-content'><p>✅ 添加了纪念日提示<br>✅ 添加了复制提示<br>✅ 添加了页低计时<br>✅ 添加了悬浮aplayer<br>✅ 修改了首页目录<br>✅ 发布了 <a href="https://nshinobu.github.io/posts/29782.html" title="https://nshinobu.github.io/posts/29782.html" target="_blank" rel="noopener">关于本人</a>页面<br>✅ 对网站加载速度作了若干优化</p>
-</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>6月2日</p>
-</div></div><div class='timeline-item-content'><p>✅ 修改了鼠标样式<br>✅ 发布了 <a href="https://nshinobu.github.io/posts/29782.html" title="https://nshinobu.github.io/posts/29782.html" target="_blank" rel="noopener">故人泪 - 泠鸢yousa </a>一文</p>
-</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月27日</p>
-</div></div><div class='timeline-item-content'><p>✅ 修改了鼠标样式<br>✅ 修改了CC版权样式<br>✅ 添加了纪念日自动灰色功能<br>（今天快累死了）</p>
-</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月27日</p>
-</div></div><div class='timeline-item-content'><p>✅ 调试了bilibili视频播放器<br>✅ 修改了加载动画<br>✅ 添加了每日诗词小组件<br>✅ 添加了天气小组件</p>
-</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月26日</p>
-</div></div><div class='timeline-item-content'><p>✅ 更换主题为<a href="https://butterfly.js.org/" title="https://butterfly.js.org/" target="_blank" rel="noopener">butterfly </a><br>✅ 调试了aplayer音乐播放器<br>✅ 修改了若干细节<br>✅ 修复了若干问题</p>
-</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月21日</p>
-</div></div><div class='timeline-item-content'><p>✅ 发布了 <a href="https://nshinobu.github.io/posts/12689.html" title="https://nshinobu.github.io/posts/12689.html" target="_blank" rel="noopener">故人泪 - 泠鸢yousa </a>一文<br>✅ 更新了若干封面图片</p>
-</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月20日</p>
-</div></div><div class='timeline-item-content'><p>✅ 修复Github Pages无法访问layout.css等若干配置文件的问题</li><br>✅ 创建Github项目<a href="https://github.com/NShinobu/PictureCDN/" title="https://github.com/NShinobu/PictureCDN/" target="_blank" rel="noopener">PictureCDN</a>作为图片内容分发网络服务端<br>✅ 上传网站头图和背景图片至<a href="https://github.com/NShinobu/PictureCDN/" title="https://github.com/NShinobu/PictureCDN/" target="_blank" rel="noopener">PictureCDN</a><br>✅ 发布了 <a href="https://nshinobu.github.io/posts/65030.html" title="https://nshinobu.github.io/posts/65030.html" target="_blank" rel="noopener">网站日志 📄 </a>一文<br>✅ 修改图片内容分发网络服务端为jsDelivr，以解决国内访问Github不稳定所导致的图片加载失败<br>✅ 调试了aplayer音乐播放器与bilibili视频播放器<br>✅ 修改了若干细节<br>✅ 修复了若干问题</p>
-</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月19日</p>
-</div></div><div class='timeline-item-content'><p>✅ 首次上传静态网站文件<br>✅ 启用Github Pages服务</p>
-</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>5月14日</p>
-</div></div><div class='timeline-item-content'><p>✅ 创建Github项目<a href="https://github.com/NShinobu/NShinobu.github.io" title="https://github.com/NShinobu/NShinobu.github.io" target="_blank" rel="noopener">nshinobu.github.io</a></p>
-</div></div></div>
-<div class="timeline orange"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>你已经走到了世界的尽头</p>
-</div></div></div></div>
-</ul>]]></content>
-      <categories>
-        <category>网站日志</category>
-      </categories>
-      <tags>
-        <tag>网站日志</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站未来规划</title>
-    <url>/posts/29782.html</url>
-    <content><![CDATA[<p>1、评论系统Artalk<br>2、右键 样式<br>3、鼠标样式<br>4、自动手记<br>5、修改链接<br>6、通知弹窗美化<br>7、aplayer美化<br>8、自定义404<br>9、留言板<br>10、看板娘<br>11、主页美化<br>12、电子木鱼</p>
-]]></content>
-      <categories>
-        <category>网站日志</category>
-      </categories>
-      <tags>
-        <tag>网站日志</tag>
       </tags>
   </entry>
 </search>
